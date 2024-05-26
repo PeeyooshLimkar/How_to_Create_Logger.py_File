@@ -1,0 +1,66 @@
+On 20(Mon)-03(Mar)-2023  At 09-53-17-PM -- DEBUG -- 10 -- 
+762007529.py -- <module> -- 762007529 -- 17 --
+debug
+On 20(Mon)-03(Mar)-2023  At 09-53-17-PM -- INFO -- 20 -- 
+762007529.py -- <module> -- 762007529 -- 18 --
+info
+On 20(Mon)-03(Mar)-2023  At 09-53-17-PM -- WARNING -- 30 -- 
+762007529.py -- <module> -- 762007529 -- 19 --
+warn
+On 20(Mon)-03(Mar)-2023  At 09-53-17-PM -- WARNING -- 30 -- 
+762007529.py -- <module> -- 762007529 -- 20 --
+warning
+On 20(Mon)-03(Mar)-2023  At 09-53-17-PM -- ERROR -- 40 -- 
+762007529.py -- <module> -- 762007529 -- 21 --
+error
+On 20(Mon)-03(Mar)-2023  At 09-53-17-PM -- CRITICAL -- 50 -- 
+762007529.py -- <module> -- 762007529 -- 22 --
+critical
+On 20(Mon)-03(Mar)-2023  At 09-53-17-PM -- CRITICAL -- 50 -- 
+762007529.py -- <module> -- 762007529 -- 23 --
+fatal
+
+On 20(Mon)-03(Mar)-2023  At 09:53:50-PM -- DEBUG -- 10 -- 
+1695023822.py -- <module> -- 1695023822 -- 17 --
+debug
+On 20(Mon)-03(Mar)-2023  At 09:53:50-PM -- INFO -- 20 -- 
+1695023822.py -- <module> -- 1695023822 -- 18 --
+info
+On 20(Mon)-03(Mar)-2023  At 09:53:50-PM -- WARNING -- 30 -- 
+1695023822.py -- <module> -- 1695023822 -- 19 --
+warn
+On 20(Mon)-03(Mar)-2023  At 09:53:50-PM -- WARNING -- 30 -- 
+1695023822.py -- <module> -- 1695023822 -- 20 --
+warning
+On 20(Mon)-03(Mar)-2023  At 09:53:50-PM -- ERROR -- 40 -- 
+1695023822.py -- <module> -- 1695023822 -- 21 --
+error
+On 20(Mon)-03(Mar)-2023  At 09:53:50-PM -- CRITICAL -- 50 -- 
+1695023822.py -- <module> -- 1695023822 -- 22 --
+critical
+On 20(Mon)-03(Mar)-2023  At 09:53:50-PM -- CRITICAL -- 50 -- 
+1695023822.py -- <module> -- 1695023822 -- 23 --
+fatal
+
+On 20(Mon)/03(Mar)/2023  At 09:54:24-PM -- DEBUG -- 10 -- 
+3768858557.py -- <module> -- 3768858557 -- 17 --
+debug
+On 20(Mon)/03(Mar)/2023  At 09:54:24-PM -- INFO -- 20 -- 
+3768858557.py -- <module> -- 3768858557 -- 18 --
+info
+On 20(Mon)/03(Mar)/2023  At 09:54:24-PM -- WARNING -- 30 -- 
+3768858557.py -- <module> -- 3768858557 -- 19 --
+warn
+On 20(Mon)/03(Mar)/2023  At 09:54:24-PM -- WARNING -- 30 -- 
+3768858557.py -- <module> -- 3768858557 -- 20 --
+warning
+On 20(Mon)/03(Mar)/2023  At 09:54:24-PM -- ERROR -- 40 -- 
+3768858557.py -- <module> -- 3768858557 -- 21 --
+error
+On 20(Mon)/03(Mar)/2023  At 09:54:24-PM -- CRITICAL -- 50 -- 
+3768858557.py -- <module> -- 3768858557 -- 22 --
+critical
+On 20(Mon)/03(Mar)/2023  At 09:54:24-PM -- CRITICAL -- 50 -- 
+3768858557.py -- <module> -- 3768858557 -- 23 --
+fatal
+
